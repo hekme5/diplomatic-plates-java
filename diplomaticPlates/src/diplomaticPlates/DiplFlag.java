@@ -1,4 +1,4 @@
-// Author: Emile Issaelkhoury
+// Author: Emile I
 // email: emileissak@gmail.com
 // Date: 08AUG14
 
